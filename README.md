@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming challenges related to network design, deployment and management.
 - 🌱 I’m currently learning python. I used to code with perl, PHP. For VoIP many call scripts, IVRS scripts are written by me. 
 - 💞️ I’m looking to collaborate on python, HTML
-- 📫 How to reach me : karthikrvh@gmail.com
+- 📫 How to reach me : x.com/iamkarthikkrish
 
 <!---
 indhradhanush/indhradhanush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
