@@ -1,0 +1,13 @@
+# config/_default/languages.en.toml
+
+title = "Karthikeyan Krish Personal website"
+
+[params.author]
+name = "Karthikeyan Krish"
+image = "img/author.jpeg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/iamkarthikkrish" }
+]
+
