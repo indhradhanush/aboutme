@@ -1,22 +1,26 @@
 # config/_default/menus.en.toml
 
 [[main]]
-  name = "Blog"
+  name = "About Me"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Topics"
-  pageRef = "topics"
+  name = "Blog"
+  url = "https://whnetwork.wordpress.com/"
   weight = 20
+  [main.params]
+    icon = "wordpress"
+    showName = true
+    target = "_blank"
 
 [[main]]
-  name = "GitHub"
+  name = "GitHub Projects"
   url = "https://github.com/indhradhanush"
   weight = 30
   [main.params]
     icon = "github"
-    showName = false
+    showName = true
     target = "_blank"
 
 [[main]]
