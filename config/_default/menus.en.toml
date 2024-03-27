@@ -9,9 +9,25 @@
     showName = true
 
 [[main]]
+  name = "Publications"
+  pageRef = "/pubs/"
+  weight = 20
+  [main.params]
+    icon = "lightbulb"
+    showName = true
+
+[[main]]
+  name = "Resume"
+  pageRef = "/resume/"
+  weight = 30
+  [main.params]
+    icon = "google-scholar"
+    showName = true
+
+[[main]]
   name = "Blog"
   url = "https://whnetwork.wordpress.com/"
-  weight = 20
+  weight = 40
   [main.params]
     icon = "blogger"
     showName = true
@@ -20,24 +36,16 @@
 [[main]]
   name = "GitHub"
   url = "https://github.com/indhradhanush"
-  weight = 30
+  weight = 50
   [main.params]
     icon = "github"
     showName = true
     target = "_blank"
 
 [[main]]
-  name = "Resume"
-  pageRef = "/resume/"
-  weight = 40
-  [main.params]
-    icon = "google-scholar"
-    showName = true
-
-[[main]]
   name = "Contact"
   pageRef = "/contact/"
-  weight = 50
+  weight = 60
   [main.params]
     icon = "coffee"
     showName = true
