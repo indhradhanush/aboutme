@@ -6,7 +6,7 @@ title: About
 
 I am a Technology Professional in Networking and Security Technology. I focus on Web scripting, Networking and Security related interests. I have used my technology interests in weekend home projects.  
 
-In parallel with my professional job, I am helping people kickstart their career by mentoring their experiences with first job. I also give trainings and workshops as part of my professional work. See more in my [Resume](/aboutme/resume/).
+In parallel with my professional job, I am helping people kickstart their career by mentoring their experiences with first job. I also give trainings and workshops as part of my professional work. See more in my [Resume](/resume/).
 
 Given my experience, I also support:
 
