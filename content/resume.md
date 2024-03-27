@@ -79,9 +79,3 @@ Simultaneously, I work closely with partners to drive sales revenue while mitiga
 - Python (VSC, Django), GitHub/GitLab, PHP
 - Web development
 - Docker
-
-### Languages
-
-- English (fluent)
-- Telugu (native)
-- Tamil (fluent)
