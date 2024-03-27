@@ -4,12 +4,13 @@ title = "Karthikeyan Krish"
 
 [params.author]
 name = "Karthikeyan Krish"
-image = "img/author.jpeg"
+image = "img/karthikeyankrish.jpeg"
 headline = "Technical Sales and Marketing Professional"
-bio = "Hello, My name is Karthik. I am a Technology learner. Currently working as a Senior Systems Engineer (Presales) handling South India, Sri Lanka and Maldives Enterprise vertical for Extreme Networks."
+bio = "Hello, My name is Karthik. I am a constant technology enthusiast. Currently working as a Senior Systems Engineer (Presales) handling South India, Sri Lanka and Maldives Enterprise vertical for Extreme Networks."
 links = [
+  { github = "https://github.com/indhradhanush" },
+  { blogger = "https://whnetwork.wordpress.com"},
   { twitter = "https://twitter.com/iamkarthikkrish" },
-  { linkedin = "https://linked.com/in/mkarthikeyan" },
-  { github = "https://github.com/indhradhanush" }
+  { linkedin = "https://linked.com/in/mkarthikeyan" }
 ]
 
