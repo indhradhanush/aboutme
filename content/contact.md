@@ -2,6 +2,8 @@
 description: Contact Karthikeyan Krish
 layout: "simple"
 title: Contact
+date: "2024-03-22"
+lastmod: "2024-03-27"
 ---
 
 I am currently working as Senior Systems Engineer at Extreme Networks India. Located at Bangalore.</a>

@@ -1,6 +1,9 @@
 ---
 description: Resume of Karthikeyan Krish
-title: Resume
+title: Resume - Karthikeyan Krish
+date: "2024-03-22"
+lastmod: "2024-03-27"
+url: /aboutme/resume/
 showTableOfContents: true
 ---
 
@@ -68,7 +71,7 @@ Simultaneously, I work closely with partners to drive sales revenue while mitiga
 
 - Path to CWNE (Certified Wireless Network Expert) (Certified Professional in CWSP[Security], CWDP[Design], CWISA[IOT], ongoing CWAP[Analysis],)
 - Amateur Radio Operator License from Telecom Regulatory Authority of India (TRAI) | Callsign VU3EFU
-- Microsoft Certified Azure Fundamentals, VMware VTSP
+- Microsoft Certified Azure Fundamentals, AWS Solutions classroom training for Partners, VMware VTSP, Redhat Certified Engineer
 - Past and current Vendor certifications from Cisco, Aruba, Extreme and Ruckus. See more at [LinkedIn](https://linkedin.com/in/mkarthikeyan/)
 
 ### Software
