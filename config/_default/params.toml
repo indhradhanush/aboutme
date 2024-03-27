@@ -22,7 +22,7 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/logo.jpg"
+  logo = "img/logo.png"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
 
@@ -38,13 +38,13 @@ fingerprintAlgorithm = "sha256"
   recentLimit = 5
 
 [article]
-  showDate = true
-  showDateUpdated = false
-  showAuthor = true
+  showDate = false
+  showDateUpdated = true
+  showAuthor = false
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
-  editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
+  showEdit = false
+  editURL = "https://github.com/indhradhanush"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
