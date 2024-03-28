@@ -5,7 +5,7 @@ title = "Karthikeyan Krish"
 [params.author]
 name = "Karthikeyan Krish"
 image = "img/karthikeyankrish.jpeg"
-headline = "Technical Sales and Marketing Professional"
+headline = "Technical Solutions and Marketing Professional"
 bio = "Hello, My name is Karthik. I am a constant technology enthusiast. Currently working as a Senior Systems Engineer (Presales) handling South India, Sri Lanka and Maldives Enterprise vertical for Extreme Networks."
 links = [
   { github = "https://github.com/indhradhanush" },
