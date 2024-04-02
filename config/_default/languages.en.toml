@@ -8,9 +8,9 @@ image = "img/karthikeyankrish.jpeg"
 headline = "Technical Solutions and Marketing Professional"
 bio = "Hello, My name is Karthik. I am a constant technology enthusiast. Currently working as a Senior Systems Engineer (Presales) handling South India, Sri Lanka and Maldives Enterprise vertical for Extreme Networks."
 links = [
-  { github = "https://github.com/indhradhanush" },
+  { github = "https://www.github.com/indhradhanush" },
   { blogger = "https://whnetwork.wordpress.com"},
-  { twitter = "https://twitter.com/iamkarthikkrish" },
-  { linkedin = "https://linked.com/in/mkarthikeyan" }
+  { twitter = "https://www.twitter.com/iamkarthikkrish" },
+  { linkedin = "https://www.linked.com/in/mkarthikeyan" }
 ]
 
