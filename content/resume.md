@@ -7,7 +7,7 @@ url: /aboutme/resume/
 showTableOfContents: true
 ---
 
-{{< button href="https://indhradhanush.github.io/aboutme/Karthikeyan Krish Resume 14+ Tech Sales and Marketing Pro 2024 Aesthetic format.pdf" target="_self" >}}
+{{< button href="https://indhradhanush.github.io/aboutme/Karthikeyan Krish Resume 14+ Tech Sales and Marketing Pro 2024 Aesthetic format v2.pdf" target="_self" >}}
 Download Resume
 {{< /button >}}
 
