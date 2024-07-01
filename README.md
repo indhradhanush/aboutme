@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthikeyan Krish. 
-- 👀 I’m interested in programming challenges related to network design, deployment and management.
+- 👀 I’m interested in programming challenges related to network design, presales, deployment and management.
 - 🌱 I’m currently learning python. I used to code with perl, PHP. For VoIP many call scripts, IVRS scripts are written by me. 
 - 💞️ I’m looking to collaborate on python, HTML
 - 📫 How to reach me : x.com/iamkarthikkrish
