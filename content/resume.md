@@ -2,7 +2,7 @@
 description: Resume of Karthikeyan Krish
 title: Resume - Karthikeyan Krish
 date: "2024-03-22"
-lastmod: "2024-07-01"
+lastmod: "2024-07-19"
 url: /aboutme/resume/
 showTableOfContents: true
 ---
