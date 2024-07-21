@@ -10,7 +10,7 @@ showTableOfContents: true
 
 ### Guide Dog: Monitoring Ruckus MSP Cloud with Grafana
 - Jan 12 2023 | Ruckus Networks
-  + Observability: This Guide dog is a How to guide/Tutorial to show how to setup and use Grafana, an open-source data visualization and monitoring platform to monitor the performance of a Ruckus Cloud MSP platform. [Link](https://support.ruckuswireless.com/documents/4386)
+  + Observability: This Guide dog is a How-to guide/Tutorial to show how to setup and use Grafana, an open-source data visualization and monitoring platform to monitor the performance of a Ruckus Cloud MSP platform. [Link](https://support.ruckuswireless.com/documents/4386)
 ### Deployment Guide: Migration Guide for APs from ZoneDirector to Unleashed Cluster
 - Jul 18 2022 | Ruckus Networks
   + This document provides the procedures to migrate Ruckus APs from ZoneDirector to Unleashed Cluster. [Link](https://support.ruckuswireless.com/documents/4219)
@@ -33,14 +33,18 @@ showTableOfContents: true
 
 ### Guest Lecture on IoT networking - Faculty Programme
 - Coimbatore Institute of Technology Dec 2018
-- Spoke about IoT networking in Faculty programme to encourage Faculty-Industry communication.
+- Spoke about IoT networking in faculty programme to encourage Faculty-Industry communication.
 
 ### Partner and Customer events
 - Ruckus Minidogs India 2018
 - Ruckus Minidogs India 2019
 - Ruckus Minidogs India 2021
 - Ruckus Global SKO - Breakout session 2019
-- Various partner and cusotmer events at Bangalore, Chennai, Hyderbad, Colombo.
+- Various partner and customer events at Bangalore, Chennai, Hyderbad, Colombo.
+
+## Webinars
+- RTF Webinar India Subregion April 2021 - MAC Randomization by Karthikeyan Krish
+- https://www.youtube.com/watch?v=yc9_92WbicU
 
 ## Projects
 
