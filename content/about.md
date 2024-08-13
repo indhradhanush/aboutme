@@ -4,7 +4,7 @@ layout: "simple"
 title: About
 ---
 
-I am a Technology Professional in Networking and Security Technology. I focus on Web scripting, Networking and Security related interests. I have used my technology interests in weekend home projects.  
+Hello! I’m Karthik, a passionate technology enthusiast with a deep curiosity for emerging technologies. I'm always eager to explore, learn, and leverage new advancements to benefit communities and organizations.
 
 In parallel with my professional job, I am helping people kickstart their career by mentoring their experiences with first job. I also give trainings and workshops as part of my professional work. See more in my [Resume](/resume/).
 
